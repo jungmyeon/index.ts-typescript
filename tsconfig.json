@@ -1,0 +1,7 @@
+{
+    "compailerOptions": {
+        "target":"ESS",
+        "module":"CommonJS",
+        // "strictNullChecks" :true
+    }
+}
